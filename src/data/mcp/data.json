@@ -158,5 +158,11 @@
     "name": "BrowserTools MCP",
     "url": "https://github.com/AgentDeskAI/browser-tools-mcp",
     "description": "Analyze logs & interact with your browser for rapid debugging"
+  },
+  {
+    "name": "GoldRush by Covalent",
+    "url": "https://github.com/covalenthq/goldrush-mcp-server",
+    "description": "Blockchain data across 100+ chains \u2014 wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.",
+    "logo": "https://goldrush.dev/favicon.ico"
   }
 ]
